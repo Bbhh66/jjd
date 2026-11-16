@@ -9,7 +9,8 @@
   "target_libs": [
     "libUE4.so",
     "libanort.so",
-    "libanogs.so"
+    "libanogs.so", 
+    "libCrashSight.so", 
   ],
   "defines": [
     { "name": "targetLibName_UE4",   "value": "libUE4.so",   "obfuscate": true },
