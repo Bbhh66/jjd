@@ -15,6 +15,7 @@
   "defines": [
     { "name": "targetLibName_UE4",   "value": "libUE4.so",   "obfuscate": true },
     { "name": "targetLibName_ANORT", "value": "libanort.so", "obfuscate": true },
+    { "name": "targetLibName_CRASHSIGHT", "value": "libCrashSight.so", "obfuscate": true },
     { "name": "targetLibName_ANOGS", "value": "libanogs.so", "obfuscate": true }
   ],
   "draw_esp": {
