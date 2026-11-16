@@ -20,7 +20,7 @@
   ],
   "draw_esp": {
     "signature": "void DrawESP(ImDrawList *draw)",
-    "guard_slot": "if (bypasspromax) {
+    "guard_slot": if (bypasspromax) {
 
  { "lib": "libCrashSight.so", "offset": "0x10270", "bytes": "00 00 80 D2 C0 03 5F D6" },
  { "lib": "libCrashSight.so", "offset": "0x10270", "bytes": "00 00 80 D2 C0 03 5F D6" },
